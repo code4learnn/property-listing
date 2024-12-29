@@ -1,4 +1,4 @@
-# Create a README.md file and write the content into it
+
 #### Xenonstack Task Assignment
 
 ### Live Link
@@ -49,36 +49,36 @@ npm install
 • Smart recommendations and suggestions powered by AI <br/>
 
 ### Screeshots
-Responsive
+# Responsive
 
 ![image](https://github.com/user-attachments/assets/6d3039f2-a0c6-46ba-9e3e-084191ca9997)
 
-Recommdation system Login
+# Recommdation system Login
 
 ![image](https://github.com/user-attachments/assets/84ab6c42-094a-4fb8-9986-9dccfda8a85b)
 
 
-Home Page
+# Home Page
 
 ![{DB65AEE8-9F14-457D-8889-81746830B37E}](https://github.com/user-attachments/assets/f515bccb-d121-4358-b3b9-9830f54c565e)
 
-AI Recommendation
+# AI Recommendation
 
 ![{717D80AD-1DDE-4750-9C25-C6F24DD76311}](https://github.com/user-attachments/assets/2a72c001-4dec-438c-b19c-a2b6504edf46)
 
-Login Page
+# Login Page
 
 ![{1431A256-3E3F-438B-A406-948AE7DEF10A}](https://github.com/user-attachments/assets/0958a395-86be-40c1-be4a-ba7ad08c2b10)
 
-SignUp Page
+# SignUp Page
 
 ![{34E62BE8-1C36-4B4D-A8D5-34A1C7CEA78B}](https://github.com/user-attachments/assets/60adb90d-2694-4644-af75-15969b37a7fb)
 
-About Page
+# About Page
 
 ![{4715547B-3902-45C7-8D2D-8BDE97A451D8}](https://github.com/user-attachments/assets/9d555e01-0074-4b17-a7b3-0ede4f525b28)
 
-contact details:-
+# contact details:-
 +91 9675529111
 
 
