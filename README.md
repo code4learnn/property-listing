@@ -68,13 +68,6 @@ npm install
 
 ![{717D80AD-1DDE-4750-9C25-C6F24DD76311}](https://github.com/user-attachments/assets/2a72c001-4dec-438c-b19c-a2b6504edf46)
 
-# Login Page
-
-![{1431A256-3E3F-438B-A406-948AE7DEF10A}](https://github.com/user-attachments/assets/0958a395-86be-40c1-be4a-ba7ad08c2b10)
-
-# SignUp Page
-
-![{34E62BE8-1C36-4B4D-A8D5-34A1C7CEA78B}](https://github.com/user-attachments/assets/60adb90d-2694-4644-af75-15969b37a7fb)
 
 
 # contact details:-
