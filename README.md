@@ -1,7 +1,7 @@
 
 #### Xenonstack Task Assignment
 
-### Live Link
+### Live Link :-
 https://property-listing-zfm2.onrender.com
 
 ### ![image](https://github.com/user-attachments/assets/a6b4085b-95aa-47d0-bd31-989e1a69dcca) 
@@ -44,11 +44,11 @@ Install dependencies for the server:
 npm install
 
 ### Features
-• User authentication and authorization (JWT) <br/>
-• Property listing and management <br/>
-• Search and filter properties <br/>
-• Responsive design for mobile and desktop <br/>
-• Smart recommendations and suggestions powered by AI <br/>
+- • User authentication and authorization (JWT) <br/>
+- • Property listing and management <br/>
+- • Search and filter properties <br/>
+- • Responsive design for mobile and desktop <br/>
+- • Smart recommendations and suggestions powered by AI <br/>
 
 ### Screeshots
 # Responsive
@@ -64,10 +64,46 @@ npm install
 
 ![{DB65AEE8-9F14-457D-8889-81746830B37E}](https://github.com/user-attachments/assets/f515bccb-d121-4358-b3b9-9830f54c565e)
 
-# AI Recommendation
+## Directory Structure 
 
-![{717D80AD-1DDE-4750-9C25-C6F24DD76311}](https://github.com/user-attachments/assets/2a72c001-4dec-438c-b19c-a2b6504edf46)
+![image](https://github.com/user-attachments/assets/4ccd1c5a-8856-4c0e-bf79-560779535fb3)
 
+
+## Explanation of Directories and Files:
+
+1 - api/: Contains the backend logic for the application.
+
+
+  • controllers/: Functions to handle requests and responses for specific routes.
+
+  • models/: Mongoose schemas and models for MongoDB collections.
+
+  • routes/: Defines API endpoints for the application.
+
+  • utils/: Includes reusable helper functions or middleware.
+
+  • index.js: Main entry file for starting the backend server.
+
+2 - client/: Frontend source code using React and Vite.
+
+
+  • src/: Contains React components, pages, and assets (extend as needed).
+
+  • .eslintrc.cjs: Configuration for ESLint to ensure code quality.
+
+  • index.html: Template HTML file for the React application.
+
+  • tailwind.config.js: TailwindCSS customization.
+
+  • vite.config.js: Configuration for Vite build and development server.
+
+3- Root Files:
+
+  • .gitignore: Specifies files to exclude from version control.
+
+  • README.md: High-level project documentation.
+
+  • package.json: Specifies dependencies and scripts for backend and frontend.
 
 
 # contact details:-
