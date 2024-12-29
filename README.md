@@ -49,6 +49,9 @@ npm install
 • Smart recommendations and suggestions powered by AI <br/>
 
 ### Screeshots
+Responsive
+![image](https://github.com/user-attachments/assets/6d3039f2-a0c6-46ba-9e3e-084191ca9997)
+
 Home Page
 ![{DB65AEE8-9F14-457D-8889-81746830B37E}](https://github.com/user-attachments/assets/f515bccb-d121-4358-b3b9-9830f54c565e)
 
@@ -68,10 +71,8 @@ About Page
 
 ![{4715547B-3902-45C7-8D2D-8BDE97A451D8}](https://github.com/user-attachments/assets/9d555e01-0074-4b17-a7b3-0ede4f525b28)
 
-Responsive 
-
-![image](https://github.com/user-attachments/assets/d0f120bb-ea03-4176-8381-87b2c91ea12a)
-
+contact details:-
++91 9675529111
 
 
 
