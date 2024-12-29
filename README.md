@@ -4,11 +4,12 @@
 ### Live Link
 https://property-listing-zfm2.onrender.com
 
-### ![image](https://github.com/user-attachments/assets/a6b4085b-95aa-47d0-bd31-989e1a69dcca) linkedin Profile:-
+### ![image](https://github.com/user-attachments/assets/a6b4085b-95aa-47d0-bd31-989e1a69dcca) 
 
 https://www.linkedin.com/in/suryansh-pratap-singh-55b9b4226/
 
-### leetcode profile:-
+![image](https://github.com/user-attachments/assets/b0bf0f07-60aa-43cb-841a-277659645d42)
+
 https://leetcode.com/u/code4learnn/
 
 ## Overview
