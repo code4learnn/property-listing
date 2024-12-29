@@ -2,7 +2,13 @@
 ## Xenonstack Assignment
 
 ### Live Link
+https://property-listing-zfm2.onrender.com
 
+### linkedin Profile:-
+linkedin.com/in/suryansh-pratap-singh-55b9b4226
+
+### leetcode profile:-
+https://leetcode.com/u/code4learnn/
 
 ## Overview
 This repository contains the code and resources for a Real Estate application built using the MERN stack with Vite.</br> The project aims to provide users with a seamless platform to browse, list, and manage real estate properties efficiently.
