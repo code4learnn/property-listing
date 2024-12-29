@@ -76,9 +76,6 @@ npm install
 
 ![{34E62BE8-1C36-4B4D-A8D5-34A1C7CEA78B}](https://github.com/user-attachments/assets/60adb90d-2694-4644-af75-15969b37a7fb)
 
-# About Page
-
-![{4715547B-3902-45C7-8D2D-8BDE97A451D8}](https://github.com/user-attachments/assets/9d555e01-0074-4b17-a7b3-0ede4f525b28)
 
 # contact details:-
 +91 9675529111
