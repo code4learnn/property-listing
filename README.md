@@ -73,6 +73,14 @@ npm install
 # contact details:-
 +91 9675529111
 
+![image](https://github.com/user-attachments/assets/2eca0241-51cc-430f-ad99-2ee4992044dd)
+
+https://www.geeksforgeeks.org/user/code4learnn/
+
+![image](https://github.com/user-attachments/assets/67d167aa-ed7d-4927-bdc6-7242f7ee3cfa)
+
+https://www.naukri.com/code360/profile/code4learnn
+
 
 
 
