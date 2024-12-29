@@ -50,9 +50,16 @@ npm install
 
 ### Screeshots
 Responsive
+
 ![image](https://github.com/user-attachments/assets/6d3039f2-a0c6-46ba-9e3e-084191ca9997)
 
+Recommdation system Login
+
+![image](https://github.com/user-attachments/assets/84ab6c42-094a-4fb8-9986-9dccfda8a85b)
+
+
 Home Page
+
 ![{DB65AEE8-9F14-457D-8889-81746830B37E}](https://github.com/user-attachments/assets/f515bccb-d121-4358-b3b9-9830f54c565e)
 
 AI Recommendation
