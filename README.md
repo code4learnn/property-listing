@@ -5,7 +5,7 @@
 https://property-listing-zfm2.onrender.com
 
 ### linkedin Profile:-
-linkedin.com/in/suryansh-pratap-singh-55b9b4226
+https://www.linkedin.com/in/suryansh-pratap-singh-55b9b4226/
 
 ### leetcode profile:-
 https://leetcode.com/u/code4learnn/
